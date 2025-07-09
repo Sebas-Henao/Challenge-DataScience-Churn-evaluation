@@ -1,7 +1,7 @@
 ![Logo de Python](assets/python.png)![Logo de google colab](assets/colab.jpg)![Logo de Pandas](assets/pandas.png)![Logo de NumPy](assets/NumPy.png)
 ---
 
-# Challenge: AluraStores: análisis de la tienda de menor rendimiento
+# Challenge: TelecomX análisis de evasión de clientes
 
 ![Imagen principal](assets/imagen-principal.jpg)
 
